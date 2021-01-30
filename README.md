@@ -1,16 +1,46 @@
-### Hi there 👋
+## Hi there, nice to meet you! I'm Duong 👋
 
-<!--
-**ThaiDuongVu/ThaiDuongVu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- Insert banner image -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am co-op student pursuing a Bachelor of Science degree in Computer Science from Ryerson University. I'm more of a nerd who likes to play around with the technical side of things. I usually find myself working on side projects ranging from Android apps, video games to web and desktop applications. Find out more about me below.
+
+---
+
+[![Duong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaiDuongVu&show_icons=true&theme=react&count_private=true)](https://github.com/ThaiDuongVu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiDuongVu&show_icons=true&theme=react&layout=compact&langs_count=10&hide=shaderlab,hlsl,objective-c,assembly)](https://github.com/ThaiDuongVu/github-readme-stats)
+
+---
+
+#### ⚡ My skills & experience:
+
+- Video Game Development 🎮 with Unity & C#.
+- Android App Development 📱 with Java.
+- Web Application Development 🌐 with NodeJS & JavaScript.
+
+#### 🔭 I’m currently working on:
+
+- [Solar](https://github.com/ThaiDuongVu/Solar): a 2D framework for developing video games with OpenGL.
+- [1VA](https://github.com/ThaiDuongVu/1VA): an top down shooter video game made with Unity engine.
+- And a few unnamed prototypes 😏.
+
+#### 📚 I'm learning:
+
+- ReactJS ⚛ frontend framework.
+
+#### 💡 I have worked on:
+
+- [Novid](https://github.com/ThaiDuongVu/Novid): a COVID tracking Android app.
+- [Hopper](https://github.com/ThaiDuongVu/Hopper): a hyper-casual mobile game.
+- [ControllerX](https://github.com/ThaiDuongVu/ControllerX): a program to simulate basic keyboard & mouse input using an Xbox Controller.
+- [Calculator](https://github.com/ThaiDuongVu/Calculator): a simple calculator app with vanilla JavaScript.
+
+#### 🤟 My hobbies:
+
+- Video games 🎮.
+- Football (soccer) ⚽.
+- Table tennis 🏓.
+and...
+- Programming 💻
