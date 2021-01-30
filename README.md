@@ -8,36 +8,39 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 ---
 
-[![Duong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaiDuongVu&show_icons=true&theme=react&count_private=true)](https://github.com/ThaiDuongVu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiDuongVu&show_icons=true&theme=react&layout=compact&langs_count=10&hide=shaderlab,hlsl,objective-c,assembly)](https://github.com/ThaiDuongVu/github-readme-stats)
+<a href="https://github.com/ThaiDuongVu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThaiDuongVu&show_icons=true&theme=react&count_private=true" />
+</a>
+<a href="https://github.com/ThaiDuongVu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiDuongVu&show_icons=true&theme=react&layout=compact&langs_count=10&hide=shaderlab,hlsl,objective-c,assembly" />
+</a>
 
 ---
 
-#### ⚡ My skills & experience:
+### ⚡ My skills & experience:
 
 - Video Game Development 🎮 with Unity & C#.
 - Android App Development 📱 with Java.
 - Web Application Development 🌐 with NodeJS & JavaScript.
 
-#### 🔭 I’m currently working on:
+### 🔭 I’m currently working on:
 
 - [Solar](https://github.com/ThaiDuongVu/Solar): a 2D framework for developing video games with OpenGL.
 - [1VA](https://github.com/ThaiDuongVu/1VA): an top down shooter video game made with Unity engine.
 - And a few unnamed prototypes 😏.
 
-#### 📚 I'm learning:
+### 📚 I'm learning:
 
 - ReactJS ⚛ frontend framework.
 
-#### 💡 I have worked on:
+### 💡 I have worked on:
 
 - [Novid](https://github.com/ThaiDuongVu/Novid): a COVID tracking Android app.
 - [Hopper](https://github.com/ThaiDuongVu/Hopper): a hyper-casual mobile game.
 - [ControllerX](https://github.com/ThaiDuongVu/ControllerX): a program to simulate basic keyboard & mouse input using an Xbox Controller.
 - [Calculator](https://github.com/ThaiDuongVu/Calculator): a simple calculator app with vanilla JavaScript.
 
-#### 🤟 My hobbies:
+### 🤟 My hobbies:
 
 - Video games 🎮.
 - Football (soccer) ⚽.
