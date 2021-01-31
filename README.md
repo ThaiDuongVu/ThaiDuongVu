@@ -21,11 +21,11 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 <br />
 
-<img src="./icons/c-sharp.png" height=50>
-<img src="./icons/python.png" height=50>
-<img src="./icons/java.png" height=50>
-<img src="./icons/cpp.png" height=50>
-<img src="./icons/js.png" height=50>
+<img src="./icons/c-sharp.png" height=50 align="center">
+<img src="./icons/python.png" height=50 align="center">
+<img src="./icons/java.png" height=50 align="center">
+<img src="./icons/cpp.png" height=50 align="center">
+<img src="./icons/js.png" height=50 align="center">
 
 <br />
 
@@ -33,11 +33,11 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 <br />
 
-<img src="./icons/unity.png" height=50>
-<img src="./icons/visual-studio.png" height=50>
-<img src="./icons/android.png" height=50>
-<img src="./icons/android-studio.png" height=50>
-<img src="./icons/nodejs.png" height=50>
+<img src="./icons/unity.png" height=50 align="center">
+<img src="./icons/visual-studio.png" height=50 align="center">
+<img src="./icons/android.png" height=50 align="center">
+<img src="./icons/android-studio.png" height=50 align="center">
+<img src="./icons/nodejs.png" height=50 align="center">
 
 <br />
 
@@ -45,8 +45,8 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 <br />
 
-<img src="./icons/windows.png" height=50>
-<img src="./icons/linux.png" height=50>
+<img src="./icons/windows.png" height=50 align="center">
+<img src="./icons/linux.png" height=50 align="center">
 
 <br />
 
