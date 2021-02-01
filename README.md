@@ -96,10 +96,11 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 ### 💡 I have worked on:
 
-- [Novid](https://github.com/ThaiDuongVu/Novid): a COVID tracking Android app.
-- [Hopper](https://github.com/ThaiDuongVu/Hopper): a hyper-casual mobile game.
-- [ControllerX](https://github.com/ThaiDuongVu/ControllerX): a program to simulate basic keyboard & mouse input using an Xbox Controller.
-- [Calculator](https://github.com/ThaiDuongVu/Calculator): a simple calculator app with vanilla JavaScript.
+- [Novid](https://github.com/ThaiDuongVu/Novid): a COVID tracking Android app (Java).
+- [Hopper](https://github.com/ThaiDuongVu/Hopper): a hyper-casual mobile game (C#).
+- [ControllerX](https://github.com/ThaiDuongVu/ControllerX): a program to simulate basic keyboard & mouse input using an Xbox Controller (C++).
+- [ez-chat](https://github.com/ThaiDuongVu/ez-chat): a real-time chat web application (JavaScript).
+- [Pong](https://github.com/ThaiDuongVu/Pong): a classic arcade Pong game.
 
 ### 🤟 My hobbies:
 
