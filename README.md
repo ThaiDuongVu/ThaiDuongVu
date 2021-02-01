@@ -21,11 +21,22 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 <br />
 
-<img src="./icons/c-sharp.png" height=50 align="center">
-<img src="./icons/python.png" height=50 align="center">
-<img src="./icons/java.png" height=50 align="center">
-<img src="./icons/cpp.png" height=50 align="center">
-<img src="./icons/js.png" height=50 align="center">
+<a href="">
+    <img src="./icons/c-sharp.png" height=50 align="center">
+</a>
+<a href="">
+    <img src="./icons/python.png" height=50 align="center">
+</a>
+<a href="">
+    <img src="./icons/java.png" height=50 align="center">
+</a>
+<a href="">
+    <img src="./icons/cpp.png" height=50 align="center">
+</a>
+<a href="">
+    <img src="./icons/js.png" height=50 align="center">    
+</a>
+
 
 <br />
 
@@ -33,11 +44,21 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 <br />
 
-<img src="./icons/unity.png" height=50 align="center">
-<img src="./icons/visual-studio.png" height=50 align="center">
-<img src="./icons/android.png" height=50 align="center">
-<img src="./icons/android-studio.png" height=50 align="center">
-<img src="./icons/nodejs.png" height=50 align="center">
+<a href="">
+    <img src="./icons/unity.png" height=50 align="center">
+</a>
+<a href="">
+    <img src="./icons/visual-studio.png" height=50 align="center">
+</a>
+<a href="">
+    <img src="./icons/android.png" height=50 align="center">
+</a>
+<a href="">
+    <img src="./icons/android-studio.png" height=50 align="center">
+</a>
+<a href="">
+    <img src="./icons/nodejs.png" height=50 align="center">
+</a>
 
 <br />
 
@@ -45,8 +66,12 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 <br />
 
-<img src="./icons/windows.png" height=50 align="center">
-<img src="./icons/linux.png" height=50 align="center">
+<a href="">
+    <img src="./icons/windows.png" height=50 align="center">
+</a>
+<a href="">
+    <img src="./icons/linux.png" height=50 align="center">
+</a>
 
 <br />
 
@@ -58,8 +83,16 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 ### 📚 I'm learning:
 
-<img src="./icons/reactjs.png" height=50>
-<img src="./icons/opengl.png" height=50>
+<br />
+
+<a href="">
+    <img src="./icons/reactjs.png" height=50>
+</a>
+<a href="">
+    <img src="./icons/opengl.png" height=50>
+</a>
+
+<br />
 
 ### 💡 I have worked on:
 
