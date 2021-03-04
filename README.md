@@ -100,7 +100,7 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 - [Hopper](https://github.com/ThaiDuongVu/Hopper): a hyper-casual mobile game (C#).
 - [ControllerX](https://github.com/ThaiDuongVu/ControllerX): a program to simulate basic keyboard & mouse input using an Xbox Controller (C++).
 - [ez-chat](https://github.com/ThaiDuongVu/ez-chat): a real-time chat web application (JavaScript).
-- [Pong](https://github.com/ThaiDuongVu/Pong): a classic arcade Pong game.
+- [Pong](https://github.com/ThaiDuongVu/Pong): a classic arcade Pong game (Python).
 
 ### 🤟 My hobbies:
 
