@@ -70,7 +70,7 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
     <img src="./icons/windows.png" height=50 align="center">
 </a>
 <a href="">
-    <img src="./icons/linux.png" height=50 align="center">
+    <img src="./icons/kubuntu.png" height=50 align="center">
 </a>
 
 <br />
