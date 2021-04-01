@@ -81,7 +81,7 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 - [1VA](https://github.com/ThaiDuongVu/1VA): an top down shooter video game made with Unity engine.
 - And a few unnamed prototypes 😏.
 
-### 📚 I'm learning:
+### 📚 I'm currently learning:
 
 <br />
 
@@ -96,11 +96,11 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 ### 💡 I have worked on:
 
+- [ez-chat2](https://github.com/ThaiDuongVu/ez-chat2): a real-time chat web application (JavaScript).
+- [Pong](https://github.com/ThaiDuongVu/Pong): a classic arcade Pong game (Python).
 - [Novid](https://github.com/ThaiDuongVu/Novid): a COVID tracking Android app (Java).
 - [Hopper](https://github.com/ThaiDuongVu/Hopper): a hyper-casual mobile game (C#).
 - [ControllerX](https://github.com/ThaiDuongVu/ControllerX): a program to simulate basic keyboard & mouse input using an Xbox Controller (C++).
-- [ez-chat](https://github.com/ThaiDuongVu/ez-chat): a real-time chat web application (JavaScript).
-- [Pong](https://github.com/ThaiDuongVu/Pong): a classic arcade Pong game (Python).
 
 ### 🤟 My hobbies:
 
