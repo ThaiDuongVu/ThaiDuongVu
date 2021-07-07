@@ -77,7 +77,7 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 ### 🔭 I’m currently working on:
 
-- [Solar](https://github.com/ThaiDuongVu/Solar): a 2D framework for developing video games with OpenGL.
+- [sidekick](https://github.com/ThaiDuongVu/sidekick): a 2D Vulkan game framework, written entirely in Rust.
 - [1VA](https://github.com/ThaiDuongVu/1VA): an top down shooter video game made with Unity engine.
 - And a few unnamed prototypes 😏.
 
