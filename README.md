@@ -11,9 +11,6 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 <a href="https://github.com/ThaiDuongVu">
     <img src="https://github-readme-stats.vercel.app/api?username=ThaiDuongVu&show_icons=true&theme=react&count_private=true" />
 </a>
-<a href="https://github.com/ThaiDuongVu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiDuongVu&show_icons=true&theme=react&layout=compact&langs_count=10&hide=shaderlab,hlsl,objective-c,assembly" />
-</a>
 
 ---
 
