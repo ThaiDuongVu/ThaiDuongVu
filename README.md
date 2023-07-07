@@ -32,8 +32,7 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 ### 🔭 I’m currently working on:
 
-- [sidekick](https://github.com/ThaiDuongVu/sidekick): a 2D Vulkan game framework, written entirely in Rust.
-- And a few unnamed prototypes 😏.
+- [sidekick](https://github.com/ThaiDuongVu/sidekick): a 2D Vulkan game framework, written in Rust.
 
 ### 📚 I'm playing around with:
 
