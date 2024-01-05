@@ -30,16 +30,6 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
     <img src="./icons/android-studio.png" height=50>
 </a>
 
-### 🔭 I’m currently working on:
-
-- [sidekick](https://github.com/ThaiDuongVu/sidekick): a 2D Vulkan game framework, written in Rust.
-
-### 📚 I'm playing around with:
-
-<a href="">
-    <img src="./icons/rust.png" height=50>
-</a>
-
 ### 💡 I have worked on:
 
 - [Bricks](https://github.com/ThaiDuongVu/ProjectBricks): a hyper-casual mobile game (C#).
