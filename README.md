@@ -32,6 +32,7 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 
 ### 💡 I have worked on:
 
+-[Nine Lives or Less](https://github.com/ThaiDuongVu/ProjectJetpack): a rogue-like action game about a cat going on adventures with a special jetpack (C#).
 - [Bricks](https://github.com/ThaiDuongVu/ProjectBricks): a hyper-casual mobile game (C#).
 - [Pong](https://github.com/ThaiDuongVu/Pong): a classic arcade Pong game (Python).
 - [Novid](https://github.com/ThaiDuongVu/Novid): a COVID tracking Android app (Java).
