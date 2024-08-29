@@ -4,10 +4,13 @@
 
 <!-- Insert banner image -->
 
-I am co-op student pursuing a Bachelor of Science degree in Computer Science from Toronto Metropolitan University (formerly Ryerson University). I'm more of a nerd who likes to play around with the technical side of things. I usually find myself working on side projects ranging from Android apps, video games to web and desktop applications. Find out more about me below 👇.
+I am a recent graduate with a degree in Computer Science from Toronto Metropolitan University (formerly Ryerson University). I'm more of a nerd who likes to play around with the technical side of things. I usually find myself working on side projects ranging from websites, video games to desktop applications. Find out more about me below 👇.
 
 ### 📕 Languages:
 
+<a href="">
+    <img src="./icons/js.png" height=50>    
+</a>
 <a href="">
     <img src="./icons/c-sharp.png" height=50>
 </a>
@@ -16,9 +19,6 @@ I am co-op student pursuing a Bachelor of Science degree in Computer Science fro
 </a>
 <a href="">
     <img src="./icons/java.png" height=50>
-</a>
-<a href="">
-    <img src="./icons/js.png" height=50>    
 </a>
 
 ### ⚡ Tools & Technologies:
