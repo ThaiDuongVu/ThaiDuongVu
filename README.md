@@ -22,7 +22,7 @@ I am a recent graduate with a degree in Computer Science from Toronto Metropolit
 
 ### 💡 Highlighted Projects
 
-- [Coupling](https://github.com/ThaiDuongVu/ProjectLink): a physics-based  puzzle platformer game (C#/Unity).
+- [Coupling](https://github.com/ThaiDuongVu/Coupling): a physics-based  puzzle platformer game (C#/Unity).
 - [TMU Classifieds](https://github.com/CPS630W24-Group8/TMUClassifieds) a web-based e-commerce platform (JavaScript/React/NodeJS/MongoDB)
 - [Infowatch](https://github.com/ThaiDuongVu/infowatch): a mobile app for viewing Overwatch heroes (TypeScript/React Native).
 - [Pong](https://github.com/ThaiDuongVu/Pong): a classic arcade Pong game (Python/Pygame).
