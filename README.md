@@ -1,7 +1,5 @@
 ## Hi there, nice to meet you 👋! I'm Duong
 
----
-
 I am a recent graduate with a degree in Computer Science from Toronto Metropolitan University (formerly Ryerson University). Here you can find my side projects ranging from websites, mobile apps, video games to desktop applications 👇.
 
 ### 📕 Programming Languages
@@ -28,3 +26,4 @@ I am a recent graduate with a degree in Computer Science from Toronto Metropolit
 - [Infowatch](https://github.com/ThaiDuongVu/infowatch): a mobile app for viewing Overwatch heroes (TypeScript/React Native).
 - [Pong](https://github.com/ThaiDuongVu/Pong): a classic arcade Pong game (Python/Pygame).
 - [ControllerX](https://github.com/ThaiDuongVu/ControllerX): a program for simulating basic keyboard & mouse input using an Xbox Controller (C++).
+
