@@ -10,7 +10,7 @@ I'm a Computer Science graduate from Toronto Metropolitan University (formerly R
 - <img src="./icons/java.png" height=20 alt="java"> Java
 - <img src="./icons/sql.png" height=20 alt="sql"> SQL
 
-### ⚡ Tools & Technologies
+## ⚡ Tools & Technologies
 
 - <img src="./icons/reactjs.png" height=20 alt="react"> React
 - <img src="./icons/react-native.png" height=20 alt="react"> React Native
@@ -18,7 +18,7 @@ I'm a Computer Science graduate from Toronto Metropolitan University (formerly R
 - <img src="./icons/git.png" height=20 alt="git"> Git version control
 - <img src="./icons/unity.png" height=20 alt="unity"> Unity game engine
 
-### 💡 Highlighted Projects
+## 💡 Highlighted Projects
 
 - **[pawverwatch](https://github.com/ThaiDuongVu/pawverwatch)** <img src="./images/pawverwatch.png" height=20 alt="pawverwatch">: a React app to turn images of pets into Overwatch heroes (TypeScript/React/NextJS). Available on **[pawver.watch](https://pawver.watch)**.
 <img src="./images/mercy.png" height=150 alt="mercy">
@@ -33,7 +33,5 @@ I'm a Computer Science graduate from Toronto Metropolitan University (formerly R
 <img src="./images/boxing.png" height=150 alt="boxing">
 
 - **[Infowatch](https://github.com/ThaiDuongVu/infowatch)**: a mobile application that provides information on Overwatch heroes/maps/players (TypeScript/React Native).
-
 - **[Pong](https://github.com/ThaiDuongVu/Pong)**: a classic arcade Pong game (Python/Pygame).
-
 - **[ControllerX](https://github.com/ThaiDuongVu/ControllerX)**: a program for simulating basic keyboard & mouse input using an Xbox Controller (C++).
