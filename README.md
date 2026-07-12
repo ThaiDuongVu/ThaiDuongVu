@@ -4,19 +4,19 @@ I'm a Computer Science graduate from Toronto Metropolitan University (formerly R
 
 ## 📕 Programming Languages
 
-- <img src="./icons/typescript.png" height=20 alt="ts"> TypeScript / <img src="./icons/js.png" height=20 alt="js"> JavaScript
-- <img src="./icons/python.png" height=20 alt="python"> Python
-- <img src="./icons/c-sharp.png" height=20 alt="c sharp"> C#
-- <img src="./icons/java.png" height=20 alt="java"> Java
-- <img src="./icons/sql.png" height=20 alt="sql"> SQL
+- <img src="./icons/typescript.png" width=20 alt="ts"> TypeScript / <img src="./icons/js.png" width=20 alt="js"> JavaScript
+- <img src="./icons/python.png" width=20 alt="python"> Python
+- <img src="./icons/c-sharp.png" width=20 alt="c sharp"> C#
+- <img src="./icons/java.png" width=20 alt="java"> Java
+- <img src="./icons/sql.png" width=20 alt="sql"> SQL
 
 ## ⚡ Tools & Technologies
 
-- <img src="./icons/reactjs.png" height=20 alt="react"> React
-- <img src="./icons/react-native.png" height=20 alt="react"> React Native
-- <img src="./icons/nodejs.png" height=20 alt="node"> Node
-- <img src="./icons/git.png" height=20 alt="git"> Git version control
-- <img src="./icons/unity.png" height=20 alt="unity"> Unity game engine
+- <img src="./icons/reactjs.png" width=20 alt="react"> React
+- <img src="./icons/react-native.png" width=20 alt="react"> React Native
+- <img src="./icons/nodejs.png" width=20 alt="node"> Node
+- <img src="./icons/git.png" width=20 alt="git"> Git version control
+- <img src="./icons/unity.png" width=20 alt="unity"> Unity game engine
 
 ## 💡 Highlighted Projects
 
@@ -32,6 +32,6 @@ I'm a Computer Science graduate from Toronto Metropolitan University (formerly R
 - **[Musical Boxing](https://github.com/ThaiDuongVu/ProjectBoxing)**: a rhythm VR boxing game demo for CPS643: Virtual Reality. Project demo **[website](https://thaiduongvu.github.io/cps643-project-presentation/)**.
 <img src="./images/boxing.png" height=150 alt="boxing">
 
-- **[Infowatch](https://github.com/ThaiDuongVu/infowatch)**: a mobile application that provides information on Overwatch heroes/maps/players (TypeScript/React Native).
+- **[infowatch](https://github.com/ThaiDuongVu/infowatch)**: a mobile application that provides information on Overwatch heroes/maps/players (TypeScript/React Native).
 - **[Pong](https://github.com/ThaiDuongVu/Pong)**: a classic arcade Pong game (Python/Pygame).
 - **[ControllerX](https://github.com/ThaiDuongVu/ControllerX)**: a program for simulating basic keyboard & mouse input using an Xbox Controller (C++).
